@@ -1,6 +1,6 @@
 # Personal LinirZamir.com website
 
-==================================================================================================
+======================================================================
 
 DESCRIPTION:
 
@@ -9,7 +9,7 @@ With this template, you can easily introduce yourself and showcase your works to
 and employers. Also, it is flexible and easy to customize so you even use this template as 
 a creative, business or portfolio site for your company.
 
-==================================================================================================
+======================================================================
 
 
 LICENSE:
